@@ -1,0 +1,67 @@
+body{background-color: rgb(255, 165, 0);
+}
+
+
+.entete{
+  display: flex;
+  justify-content: space-between;
+}
+.image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+
+.formation{
+  display: flex;
+  flex-flow: column;
+  text-align-last: auto;
+  font-size: 20px;
+  font-style: bold;
+  text-size-adjust: 5px;
+  text-decoration-color: chocolate;
+}
+
+span{
+border: 1px solid blue ;
+text-decoration-color: chartreuse;
+display: block;
+text-align: center;
+}
+.experience{
+  display: flex;
+  flex-flow: nowrap;
+  text-align-last: auto;
+  font-size: 20px;
+  font-style: bold;
+}
+
+   span1{
+    border: 1px solid black ;
+display: block;
+text-align: center;
+
+}
+
+
+.competence{
+font-style: bold;
+font-size: 20px;
+}
+  
+SPan2{
+  border: 1px solid black ;
+display: block;
+text-align: center;
+}
+
+imput{[type="submit"]
+  float: left;
+  padding: 15px;
+  color: rgb(189, 198, 238);
+  background-color: crimson;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-radius: ;
+}
